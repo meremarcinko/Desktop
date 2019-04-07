@@ -12,4 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
 //test
     //hi
+
+    //copying and pasting some code
 }
